@@ -65,4 +65,4 @@ microphone access when the session's speaking step asks.
 - Server-trained disfluency detection (e.g. SEP-28k) — the real data-flywheel bet,
   scoped as a separate spike before we build architecture around it.
 - Accounts/backend — this MVP is local-first on purpose (privacy + speed to learn).
-# speech-coach
+

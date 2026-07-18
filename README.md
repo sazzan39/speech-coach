@@ -1,7 +1,7 @@
 # Fluent — a calm AI speech coach (MVP)
 
 A confidence-first speaking practice app. It does **not** claim to cure stuttering
-— there is no proven universal cure. It gives evidence-based practice, gently.
+ there is no proven universal cure. It gives evidence-based practice, gently.
 
 ## The one design rule
 
